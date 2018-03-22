@@ -1,4 +1,4 @@
-# ShapeShift-Skeleton
+# Bittrades-Skeleton
 
 To Run: </br>
   git clone https://github.com/Shapeshift-Public/ShapeShift-Skeleton </br>
